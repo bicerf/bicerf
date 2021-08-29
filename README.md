@@ -8,6 +8,6 @@
 - 💬 Ask me about C#, .Net, Angular, Frontend, OOP, AOP, SOLID and software architectures.
 - 📫 How to reach me: furkanbicerresmi@gmail.com
 
-[Linkedln](https://www.linkedin.com/in/furkan-bicer-dev/)
+[Linkedln](https://www.linkedin.com/in/bicerfurkan)
 
 
